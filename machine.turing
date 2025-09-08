@@ -1,0 +1,51 @@
+{
+    "alphabet": [
+        "a",
+        "b",
+        "Y",
+        "N"
+    ],
+    "states": {
+        "q0": {
+            "comment": "",
+            "λ": "λ L qY",
+            "a": "R",
+            "b": "b R q1",
+            "Y": "N",
+            "N": "N"
+        },
+        "q1": {
+            "comment": "",
+            "λ": "λ L qN",
+            "a": "R",
+            "b": "b R q0",
+            "Y": "N",
+            "N": "N"
+        },
+        "qY": {
+            "comment": "",
+            "a": "λ L qY",
+            "b": "λ L qY",
+            "Y": "N",
+            "N": "N",
+            "λ": "Y L qS"
+        },
+        "qN": {
+            "comment": "",
+            "a": "λ L qN",
+            "b": "λ L qN",
+            "Y": "N",
+            "N": "N",
+            "λ": "N L qS"
+        },
+        "qS": {
+            "comment": "",
+            "a": "N",
+            "b": "N",
+            "Y": "N",
+            "N": "N",
+            "λ": "N"
+        }
+    },
+    "word": "aababb"
+}
