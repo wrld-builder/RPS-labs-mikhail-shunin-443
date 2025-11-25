@@ -1,0 +1,58 @@
+{
+  "database": "/Users/macbook/Desktop/RPS labs 3/tests/data/integration.db",
+  "createdAt": "2025-11-25T21:25:25.263Z",
+  "insert": [
+    {
+      "size": 100,
+      "durationMs": 5.76,
+      "success": true
+    },
+    {
+      "size": 1000,
+      "durationMs": 32.24,
+      "success": true
+    },
+    {
+      "size": 10000,
+      "durationMs": 363.1,
+      "success": true
+    }
+  ],
+  "fetchSort": [
+    {
+      "size": 100,
+      "durationMs": 2.7,
+      "avgPerArrayMs": 0.027,
+      "success": true
+    },
+    {
+      "size": 1000,
+      "durationMs": 3.18,
+      "avgPerArrayMs": 0.0318,
+      "success": true
+    },
+    {
+      "size": 10000,
+      "durationMs": 6.94,
+      "avgPerArrayMs": 0.0694,
+      "success": true
+    }
+  ],
+  "cleanup": [
+    {
+      "size": 100,
+      "durationMs": 0.45,
+      "success": true
+    },
+    {
+      "size": 1000,
+      "durationMs": 2.85,
+      "success": true
+    },
+    {
+      "size": 10000,
+      "durationMs": 23.37,
+      "success": true
+    }
+  ]
+}
