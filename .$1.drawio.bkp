@@ -1,0 +1,220 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Страница — 1" id="CnG4vlejJ8zea4YjUJKz">
+    <mxGraphModel dx="3980" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="241.25" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-32" value="Начало" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="196.25" y="40" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-55" target="FnLxgyKR7Nvr2TZ4rRqj-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-34" value="q0: идти вправо по образцу до λ&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="181.25" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-39" target="FnLxgyKR7Nvr2TZ4rRqj-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-39" value="текст пуст? λ" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="191.25" y="330" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="243.75" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-41" value="записать N" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="183.75" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-42" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-45" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="156.25" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-47" target="FnLxgyKR7Nvr2TZ4rRqj-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-47" target="FnLxgyKR7Nvr2TZ4rRqj-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-47" value="совпала 1-я буква образца со S/T/U ?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="123.75" y="530" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-48" value="ЦИКЛ по образцу:&amp;nbsp;&amp;nbsp;взять след. букву a/b/c -&amp;gt; A/B/C" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="647.5" width="142.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fontFamily=Times New Roman;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="835" as="sourcePoint" />
+            <mxPoint x="326.6737499999999" y="889.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-52" value="Конец" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="278.75" y="1180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-53" target="FnLxgyKR7Nvr2TZ4rRqj-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="241" y="160" as="sourcePoint" />
+            <mxPoint x="251" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-55" value="перейти на 1-ю букву текста&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="183.75" y="250" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-34" target="FnLxgyKR7Nvr2TZ4rRqj-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="241" y="160" as="sourcePoint" />
+            <mxPoint x="244" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-53" value="заменить λ между строками на D&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="181.25" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-39" target="FnLxgyKR7Nvr2TZ4rRqj-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251.25" y="695" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="355" />
+              <mxPoint x="120" y="420" />
+              <mxPoint x="121" y="420" />
+            </Array>
+            <mxPoint x="296" y="355" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-44" target="FnLxgyKR7Nvr2TZ4rRqj-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="495" />
+              <mxPoint x="30" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-44" value="поставить старт: a-&amp;gt;S,b-&amp;gt;T,c-&amp;gt;U&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="61.25" y="480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-64" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="256.25" y="610" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-48" target="FnLxgyKR7Nvr2TZ4rRqj-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="244" y="708" as="sourcePoint" />
+            <mxPoint x="259" y="905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-65" value="в тексте от старта найти следующую&amp;nbsp;НЕпомеченную (пропуская A/B/C)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="165" y="720" width="157.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-65" target="FnLxgyKR7Nvr2TZ4rRqj-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="244" y="780" as="sourcePoint" />
+            <mxPoint x="259" y="905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-67" target="FnLxgyKR7Nvr2TZ4rRqj-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-67" value="совпало?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="183.75" y="810" width="106.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-75" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="285" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-76" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="790" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-78" value="поставить новый старт S/T/U&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="50" y="870" width="157.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-79" value="(после каждого успешного сравнения букв)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="256.25" y="890" width="142.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-80" target="FnLxgyKR7Nvr2TZ4rRqj-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-80" target="FnLxgyKR7Nvr2TZ4rRqj-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-80" value="все буквы образца помечены? (до D)&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="980" width="242.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-81" target="FnLxgyKR7Nvr2TZ4rRqj-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-81" value="Y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="288.25" y="1080" width="81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-84" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="339.25" y="1050" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-85" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="420" y="980" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-86" value="N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1080" width="81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-90" value="ПРОВАЛ: откатить метки&amp;nbsp;A-&amp;gt;a, B-&amp;gt;b, C-&amp;gt;c (везде)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-132.5" y="647.5" width="142.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-90" target="FnLxgyKR7Nvr2TZ4rRqj-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-61" y="708" as="sourcePoint" />
+            <mxPoint x="-46" y="905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-92" target="FnLxgyKR7Nvr2TZ4rRqj-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-92" value="сдвинуть старт на 1 вправо&amp;nbsp;S-&amp;gt;a / T-&amp;gt;b / U-&amp;gt;c ; шаг вправо" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="720" width="157.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-93" target="FnLxgyKR7Nvr2TZ4rRqj-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-93" value="справа λ? конец?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-114.37" y="800" width="106.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-54" y="1140" />
+              <mxPoint x="331" y="1140" />
+              <mxPoint x="331" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-95" value="записать N" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-132.5" y="870" width="157.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FnLxgyKR7Nvr2TZ4rRqj-93" target="FnLxgyKR7Nvr2TZ4rRqj-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-97" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="840" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnLxgyKR7Nvr2TZ4rRqj-101" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="790" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
